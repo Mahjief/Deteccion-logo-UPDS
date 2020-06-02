@@ -1,0 +1,1 @@
+createsamples.exe -img positive/upds.jpg -bg negative/bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 1300

@@ -1,0 +1,1 @@
+haartraining.exe -data cascades -vec vector/positivos.vec -bg negative/bg.txt -npos 1300 -nneg 1300 -nstages 10 -w 20 -h 20  -mode ALL
